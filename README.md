@@ -1,1 +1,1 @@
-# astro1308.github.io
+Welcome to Property Collection Project
